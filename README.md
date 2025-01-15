@@ -1,6 +1,6 @@
 # 90-North-Internship-Assignment
 
-Here's the provided content formatted as a `README.md` code snippet:
+
 
 ```markdown
 # Chat Application
